@@ -1,9 +1,9 @@
-<img src="https://img.shields.io/badge/rabbitmarry3942@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/jjae0510@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### 👋 안녕하세요 :) 열정 가득, 능동적으로 공부하고 성장하고 있는 백엔드 엔지니어 입니다!
 ###### ✨ 윈도우 환경에서만 개발을 진행해봤지만, 맥 환경에서도 개발을 해보고 싶어 도전중입니다!
 
-###### 👯 취미: 조깅, 필라테스 운동하기, 특기: 처음 보는 사람이랑 친해지기
+###### 👯 취미: 조깅, 필라테스 | 특기: 처음 보는 사람이랑 친해지기
 ###### 😊 함께 일하고 싶은 개발자가 되고 싶습니다-!
 
 
