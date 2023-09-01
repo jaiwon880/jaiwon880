@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header)
-
-
 <div align=center>
 	<h2> 😊 함께 일하고 싶은 개발자가 되고 싶습니다</h2>
 	<h3>📚 Tech Stack 📚</h3>
