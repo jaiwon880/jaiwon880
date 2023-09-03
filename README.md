@@ -1,35 +1,39 @@
 <div align=center>
 	<h2> 😊 함께 일하고 싶은 개발자가 되고 싶습니다</h2>
+	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqus0in&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	<h3>📚 Tech Stack 📚</h3>
 </div>
 <div align="center">
   <p>🐣 Front-End 🐣</p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white" />
-	  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white" />
-	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+	![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+	![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+	![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+    	<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
   <br>
   <p>🐣 Back-End 🐣</p>
-	  <img src="https://img.shields.io/badge/Java-1E8CBE?style=plastic&logo=Conda-Forge&logoColor=white" />
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+	![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
+	![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+    	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+	![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   <br>
   <p>🐣 DevOps 🐣</p>
-	  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=AmazonAWS&logoColor=white" />
-    SVC <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    	![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+    	![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools & Community 🛠</p>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/IntelliJ-0027DE?style=plastic&logo=IntelliJIDEA&logoColor=white">
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white" />
+	![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+	![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+	![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+  <br>
+	![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+	![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+	![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 </div>
 <br>
 <div align=center>
@@ -41,4 +45,5 @@
 	</a>
 	<br>
 </div>
+
 <img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwon880&layout=compact&theme=transparent&hide_border=true" /></a> 
