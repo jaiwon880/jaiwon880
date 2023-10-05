@@ -7,7 +7,7 @@
 	<h3>📚 Tech Stack 📚</h3>
 </div>
 
-<!-- Body -->
+
 #### 🐣 Front-End 🐣
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +15,7 @@
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
-<br><br>
+<br>
 
 #### 🐣 Back-End 🐣
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -23,14 +23,13 @@
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-<br><br>
+<br>
 
 #### 🐣 DevOps 🐣
 ![mariaDB](https://img.shields.io/badge/mariaDB-232F3E.svg?&style=for-the-badge&logo=mariaDB&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-<br><br>
-
+<br>
 
 #### 🛠 Tools & Community 🛠
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -45,6 +44,6 @@
 
 #### 🎨 Design
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-<br><br>
+<br>
 
-<img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwon880&layout=compact&theme=transparent&hide_border=true" /></a> 
+<img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwon880&layout=compact&theme=transparent&hide_border=true" />
